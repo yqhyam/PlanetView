@@ -9,7 +9,8 @@ DEMO 并未包含全部功能，可以自行扩展实现对应需求。
 
 
 效果如下：
-https://github.com/yqhyam/PlanetView/assets/29418368/f9856049-e484-4aba-8620-428317b3ddee
+https://github.com/yqhyam/PlanetView/assets/29418368/86f96e93-f90d-457f-ba6f-1016cdb570c4
+
 
 核心代码：
 ```
